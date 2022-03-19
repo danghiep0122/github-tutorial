@@ -21,3 +21,8 @@ git log
 7.git push: push file to Github
 git push -u origin main
 git push --all
+
+8. git checkout: switch between branches
+git checkout -b Name  --> create new Branch Name
+
+9. git push origin Name ---> push branch to Github
