@@ -1,8 +1,8 @@
 # github-tutorial
 
 1. git config: khai bao ten va email
-/git config --global user.name "nhap ten"
-/git config --global user.email "nhap email"
+//git config --global user.name "nhap ten"
+//git config --global user.email "nhap email"
 
 2. git init: create repo local
 
