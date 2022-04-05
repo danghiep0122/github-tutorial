@@ -26,3 +26,5 @@ git push --all
 git checkout -b Name  --> create new Branch Name
 
 9. git push origin Name ---> push branch to Github
+
+10. git merge <branch name> --> merge from branch to Master
