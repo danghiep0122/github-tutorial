@@ -18,6 +18,7 @@ git commit -m "message"
 6. git log: check the change of files
 git log 
 
+
 7.git push: push file to Github
 git push -u origin main
 git push --all
